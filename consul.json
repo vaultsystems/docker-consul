@@ -2,7 +2,7 @@
 	"ui": true,
 	"client_addr": "0.0.0.0",
 	"ports": {
-		"dns": 53
+		"dns": 8600
 	},
 	"disable_update_check": true,
         "dns_config": {
